@@ -5,7 +5,7 @@ module.exports.config = {
   name: "owner",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+  credits: "🔰mukul🔰",
   description: "Show Owner Info with styled box & random photo",
   commandCategory: "Information",
   usages: "owner",
@@ -19,19 +19,19 @@ module.exports.run = async function ({ api, event }) {
 ╔═══════════════✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═══════════════✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗥𝗮𝗵𝗮𝘁 𝗜𝘀𝗹𝗮𝗺
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗥𝗮𝗵𝗮𝘁
-║ 🎂 𝗔𝗴𝗲 : 16
-║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
+║ 👑 𝗡𝗮𝗺𝗲 : Md mukul miya
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : Danzar vi 
+║ 🎂 𝗔𝗴𝗲 : 18
+║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : বিবাহিত 
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗝𝗮𝗺𝗮𝗹𝗽𝘂𝗿
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : Rangpur 
 ╠═══════════════✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═══════════════✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/61582708907708
+║ fb.com/61576578598713
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/61582708907708
+║ m.me/61576578598713
 ╚═══════════════✿
 `;
 
