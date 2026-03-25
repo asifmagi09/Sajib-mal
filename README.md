@@ -5,7 +5,7 @@
 Click thumbnail to watch full tutorial
 
 <p align="center">
-  <a href="####"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰Rahat_Boss🔰`" alt=""></a>
+  <a href="####"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰mukul_Boss🔰`" alt=""></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
