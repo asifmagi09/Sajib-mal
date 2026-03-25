@@ -5,7 +5,7 @@ module.exports.config = {
     name: "owner3",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+    credits: "🔰 Danzar vi 🔰",
     description: "Show stylish Owner Info card (no black border)",
     commandCategory: "info",
     usages: "",
